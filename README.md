@@ -5,74 +5,61 @@ Cada día tiene su propia carpeta con un archivo `index.html` que se puede abrir
 
 ---
 
-📅 Plan de Aprendizaje en 30 Días – Tailwind CSS
-🔹 Semana 1: Fundamentos
+# 📅 Plan de Aprendizaje en 30 Días – Tailwind CSS
 
-Día 1: Instala Tailwind en un proyecto (CDN o Vite). Haz tu primer div con color y texto.
+---
 
-Día 2: Experimenta con text-, font-, bg-, p-, m-.
+## 🔹 Semana 1: Fundamentos
+- **Día 1:** Instala Tailwind en un proyecto (CDN o Vite). Haz tu primer `div` con color y texto.
+- **Día 2:** Experimenta con `text-`, `font-`, `bg-`, `p-`, `m-`.
+- **Día 3:** Crea botones con `hover:` y `focus:`.
+- **Día 4:** Juega con bordes y sombras (`rounded`, `shadow-lg`).
+- **Día 5:** Haz una tarjeta con imagen, título y descripción.
+- **Día 6:** Reproduce una navbar sencilla con enlaces horizontales.
+- **Día 7:** **Repaso** → construye una landing con hero + botón CTA.
 
-Día 3: Crea botones con hover: y focus:.
+---
 
-Día 4: Juega con bordes y sombras (rounded, shadow-lg).
+## 🔹 Semana 2: Responsive Design
+- **Día 8:** Aprende breakpoints (`sm:`, `md:`, `lg:`). Haz un `div` que cambie color según tamaño.
+- **Día 9:** Haz un grid de 3 tarjetas que en móvil sea 1 columna y en escritorio 3.
+- **Día 10:** Haz una navbar que en móvil se apile.
+- **Día 11:** Diseña un layout blog: sidebar + contenido.
+- **Día 12:** Crea un footer responsive.
+- **Día 13:** Maqueta una galería de imágenes con grid.
+- **Día 14:** **Repaso** → landing con navbar + hero + grid de tarjetas.
 
-Día 5: Haz una tarjeta con imagen, título y descripción.
+---
 
-Día 6: Reproduce una navbar sencilla con enlaces horizontales.
+## 🔹 Semana 3: Componentes reales
+- **Día 15:** Formulario de contacto con `input`, `textarea`, `button`.
+- **Día 16:** Hero con texto + imagen (columna en móvil, fila en escritorio).
+- **Día 17:** Cards interactivas con `hover:scale` y `transition`.
+- **Día 18:** Un modal sencillo usando `hidden` y `block`.
+- **Día 19:** Un dashboard con `grid-cols-4`, sidebar y contenido.
+- **Día 20:** Sección de testimonios con tarjetas.
+- **Día 21:** **Repaso** → página con hero + grid + formulario.
 
-Día 7: Repaso: construye una landing con hero + botón CTA.
+---
 
-🔹 Semana 2: Responsive Design
+## 🔹 Semana 4: Avanzado
+- **Día 22:** Implementa **Dark Mode** con `dark:` y toggle simple.
+- **Día 23:** Mejora el toggle con animación (`peer`, `transition`).
+- **Día 24:** Haz un spinner con `animate-spin`.
+- **Día 25:** Crea un botón con `animate-bounce`.
+- **Día 26:** Practica animaciones con `hover:` y `group-hover:`.
+- **Día 27:** Página de login con diseño moderno.
+- **Día 28:** Landing completa con navbar sticky + hero + secciones + footer.
+- **Día 29:** Refactoriza tu portafolio aplicando todo lo aprendido.
+- **Día 30:** 🚀 **Proyecto final** → tu portafolio completo (navbar, hero, proyectos, contacto, dark mode).
 
-Día 8: Aprende breakpoints (sm:, md:, lg:). Haz un div que cambie color según tamaño.
+---
 
-Día 9: Haz un grid de 3 tarjetas que en móvil sea 1 columna y en escritorio 3.
+## 📌 Reglas de práctica
+- Guarda cada ejercicio en un repositorio GitHub (ej: `tailwind-day-1`, `tailwind-day-2`, ...).
+- Cada semana revisamos tus resultados aquí, me pasas tu código y yo te digo qué mejorar.
+- Al final tendrás un **portafolio profesional**.
 
-Día 10: Haz una navbar que en móvil se apile.
-
-Día 11: Diseña un layout blog: sidebar + contenido.
-
-Día 12: Crea un footer responsive.
-
-Día 13: Maqueta una galería de imágenes con grid.
-
-Día 14: Repaso: landing con navbar + hero + grid de tarjetas.
-
-🔹 Semana 3: Componentes reales
-
-Día 15: Formulario de contacto con input, textarea, button.
-
-Día 16: Hero con texto + imagen (columna en móvil, fila en escritorio).
-
-Día 17: Cards interactivas con hover:scale y transition.
-
-Día 18: Un modal sencillo usando hidden y block.
-
-Día 19: Un dashboard con grid-cols-4, sidebar y contenido.
-
-Día 20: Sección de testimonios con tarjetas.
-
-Día 21: Repaso: página con hero + grid + formulario.
-
-🔹 Semana 4: Avanzado
-
-Día 22: Implementa Dark Mode con dark: y toggle simple.
-
-Día 23: Mejora el toggle con animación (peer, transition).
-
-Día 24: Haz un spinner con animate-spin.
-
-Día 25: Crea un botón con animate-bounce.
-
-Día 26: Practica animaciones con hover: y group-hover:.
-
-Día 27: Página de login con diseño moderno.
-
-Día 28: Landing completa con navbar sticky + hero + secciones + footer.
-
-Día 29: Refactoriza tu portafolio aplicando todo lo aprendido.
-
-Día 30: 🚀 Proyecto final: tu portafolio completo (navbar, hero, proyectos, contacto, dark mode).
 
 ---
 
